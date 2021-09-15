@@ -7,8 +7,9 @@
     "test": "test"
   },
   "scripts": {
-    "start": "node index.js",
-    "test": "mocha"
+    
+    "test": "mocha",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
